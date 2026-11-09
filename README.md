@@ -16,9 +16,13 @@ I'm a Machine Learning master's student at Columbia. I work on AI systems and co
 - **Computational biology:** single-cell analysis, spatial omics, Scanpy, Squidpy, Cellpose
 - **Data analysis & statistics:** pandas, NumPy, nonparametric testing, multiple-testing correction
 
-## Projects
+## Selected Projects
 
-I'm currently organizing and documenting my academic and collaborative projects. My work includes applications in agentic AI, computational genomics, spatial transcriptomics, and software engineering.
+**[OncoLink](https://github.com/mahsamohajeri/OncoLink)**: breast cancer survival-risk prediction on the METABRIC dataset. Team project with Daniyah Taimur (backend) and Anjali Bhimanadham (frontend). I designed the app and led the modeling: model comparison, SHAP explanations, a patient similarity engine, and leak-free cross-validation with survival models.
+
+**[iSTAR-C](https://github.com/mahsamohajeri/istarc)**: adds cell-type supervision to iSTAR, a model that predicts high-resolution gene expression from histology images. Team project with Smriti Vaidyanathan. I built the cell-type marker set, the heat-diffusion pseudo-labels, and the evaluation. The model gained pixel-level cell-type estimates with no loss in gene-expression accuracy.
+
+**[BigDataNutritionAgent](https://github.com/mahsamohajeri/BigDataNutritionAgent)**: an AI agent that builds personalized meal plans, recipes, and grocery lists. Team project with Anjali Bhimanadham and Daniyah Taimur. I built the meal-type classifier and the LLM steps for ingredient cleanup and grocery instructions.
 
 ## Connect
 
