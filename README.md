@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mahsa!
 
-<!--
-**mahsamohajeri/mahsamohajeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Master's student at Columbia University, specializing in Machine Learning, with experience in AI engineering, software development, and computational research.
 
-Here are some ideas to get you started:
+I'm particularly interested in applying AI and computational methods to challenges in healthcare and medicine, from building reliable AI systems to understanding complex biological systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **AI Engineering @ Graphen:** Developing and evaluating multi-agent AI systems for healthcare, with a focus on LLM evaluation, agent routing, and reliability.
+- **Computational Research @ Columbia's Azizi Lab:** Developing computational workflows for single-cell and spatial omics analysis, with applications in cancer research.
+- **Software Engineering @ Digital Promise:** Designing and developing data science infrastructure for educational technology evaluation.
+
+## Technical Skills
+
+- **Languages:** Python, SQL, Java, C++
+- **Machine Learning:** PyTorch, Deep Learning, Computer Vision, LLMs, Generative Models
+- **Data & Research:** Pandas, NumPy, scikit-learn, Single-Cell Analysis, Spatial Omics
+- **Software & Tools:** Git, Docker, FastAPI, PostgreSQL, Langfuse
+
+## Projects
+
+I'm currently organizing and documenting my academic and collaborative projects. My work includes applications in agentic AI, computational genomics, spatial transcriptomics, and software engineering.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mahsamohajeri/)
