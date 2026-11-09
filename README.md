@@ -1,21 +1,20 @@
 # Hi, I'm Mahsa!
 
-I'm a Computer Science Master's student at Columbia University, specializing in Machine Learning, with experience in AI engineering, software development, and computational research.
-
-I'm particularly interested in applying AI and computational methods to challenges in healthcare and medicine, from building reliable AI systems to understanding complex biological systems.
+I'm a Machine Learning master's student at Columbia. I work on AI systems and computational methods for medicine, from making LLM agents reliable in clinical settings to analyzing single-cell and spatial omics data.
 
 ## What I'm working on
 
-- **AI Engineering @ Graphen:** Developing and evaluating multi-agent AI systems for healthcare, with a focus on LLM evaluation, agent routing, and reliability.
-- **Computational Research @ Columbia's Azizi Lab:** Developing computational workflows for single-cell and spatial omics analysis, with applications in cancer research.
-- **Software Engineering @ Digital Promise:** Designing and developing data science infrastructure for educational technology evaluation.
+- **AI Engineer, Graphen:** multi-agent LLM systems for clinical intake and triage, with a focus on evaluation, agent routing, and observability.
+- **Research Fellow, Azizi Lab (Columbia):** computational pipelines for single-cell and spatial omics in cancer research.
+- **Data Science & Software Engineer, Digital Promise:** data infrastructure for evaluating educational technology.
 
 ## Technical Skills
 
-- **Languages:** Python, SQL, Java, C++
-- **Machine Learning:** PyTorch, Deep Learning, Computer Vision, LLMs, Generative Models
-- **Data & Research:** Pandas, NumPy, scikit-learn, Single-Cell Analysis, Spatial Omics
-- **Software & Tools:** Git, Docker, FastAPI, PostgreSQL, Langfuse
+- **Programming & software:** Python, SQL, Java, Git, Docker, PostgreSQL
+- **Machine learning:** PyTorch, scikit-learn, deep learning, computer vision
+- **LLMs & agentic AI:** multi-agent systems, LLM evaluation, prompt engineering, Langfuse
+- **Computational biology:** single-cell analysis, spatial omics, Scanpy, Squidpy, Cellpose
+- **Data analysis & statistics:** pandas, NumPy, nonparametric testing, multiple-testing correction
 
 ## Projects
 
